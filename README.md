@@ -1,2 +1,1 @@
-Reference:
-https://github.com/photonstorm/phaser3-project-template
+Reference: https://github.com/digitsensitive/phaser3-typescript
